@@ -33,7 +33,7 @@ La majeure partie du code se trouvera dans les dossiers /components /pages /layo
 # install dependencies
 $ npm install 
 
-# serve with hot reload at localhost:3000
+# serve with hot reload at localhost:3333
 $ npm run dev
 
 
