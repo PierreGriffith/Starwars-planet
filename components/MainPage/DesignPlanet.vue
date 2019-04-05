@@ -14,13 +14,11 @@
         script: null,
         ps: null,
         canvas: null,
-        size: this.$store.state.current_planet_info.diameter,
-        color: this.$store.state.current_planet_info.orbital_period,
-        id: this.$store.current_number_planet
       }
     },
 
     mounted () {
+
       this.script = p => {
 
 

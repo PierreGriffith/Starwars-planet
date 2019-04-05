@@ -5,7 +5,7 @@
         <h1 class="title has-text-centered">
           Official image of starwars galaxy
         </h1>
-        <h2 class="subtitle">
+        <h2 class="subtitle has-text-centered">
           put a number of planets and go get essential information about it
         </h2>
       </div>

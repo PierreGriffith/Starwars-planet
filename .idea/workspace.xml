@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed5f4e39-9645-4bad-a73b-7473031bb3ff" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/components/Header/Header.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Header/HeaderCurrentPlanet.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Header/HeaderLogo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Header/HeaderNavigator.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/MainPage/DescriptionPlanet.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/MainPage/DesignPlanet.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/MainPage/MainPage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/_planet.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/axios.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/_bulma_override.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/_bulma_override.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/AppLogo.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/default.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header/HeaderNavigator.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header/HeaderNavigator.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/MainPage/DesignPlanet.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/MainPage/DesignPlanet.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -30,14 +17,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.87560135">
+    <splitter split-orientation="horizontal" split-proportion="0.29965636">
       <split-first>
         <leaf>
           <file leaf-file-name="index.vue" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pages/index.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+                <state relative-caret-position="85">
+                  <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
                 </state>
               </provider>
             </entry>
@@ -63,22 +50,17 @@
           <file leaf-file-name="nuxt.config.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/nuxt.config.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="9" column="84" selection-start-line="9" selection-start-column="84" selection-end-line="9" selection-end-column="84" />
+                <state relative-caret-position="153">
+                  <caret line="9" selection-start-line="9" selection-end-line="10" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/static/favicon.ico">
-              <provider selected="true" editor-type-id="images" />
-            </entry>
-          </file>
-          <file leaf-file-name="HeaderNavigator.vue" pinned="false" current-in-tab="false">
+          <file leaf-file-name="HeaderNavigator.vue" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/components/Header/HeaderNavigator.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+                <state relative-caret-position="289">
+                  <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
@@ -123,10 +105,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="HeaderCurrentPlanet.vue" pinned="false" current-in-tab="true">
+          <file leaf-file-name="HeaderCurrentPlanet.vue" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/components/Header/HeaderCurrentPlanet.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
+                <state relative-caret-position="51">
                   <caret line="3" column="45" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="45" />
                 </state>
               </provider>
@@ -153,11 +135,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="DesignPlanet.vue" pinned="false" current-in-tab="false">
+          <file leaf-file-name="DesignPlanet.vue" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/components/MainPage/DesignPlanet.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="13" selection-start-line="11" selection-end-line="13" />
+                <state relative-caret-position="156">
+                  <caret line="16" selection-start-line="16" selection-end-line="16" />
                 </state>
               </provider>
             </entry>
@@ -198,13 +180,13 @@
         <option value="$PROJECT_DIR$/components/MainPage/DescriptionPlanet.vue" />
         <option value="$PROJECT_DIR$/components/MainPage/MainPage.vue" />
         <option value="$PROJECT_DIR$/layouts/_planet.vue" />
-        <option value="$PROJECT_DIR$/components/MainPage/DesignPlanet.vue" />
         <option value="$PROJECT_DIR$/store/index.js" />
-        <option value="$PROJECT_DIR$/components/Header/HeaderNavigator.vue" />
         <option value="$PROJECT_DIR$/layouts/default.vue" />
-        <option value="$PROJECT_DIR$/pages/index.vue" />
         <option value="$PROJECT_DIR$/pages/_planet.vue" />
         <option value="$PROJECT_DIR$/nuxt.config.js" />
+        <option value="$PROJECT_DIR$/pages/index.vue" />
+        <option value="$PROJECT_DIR$/components/Header/HeaderNavigator.vue" />
+        <option value="$PROJECT_DIR$/components/MainPage/DesignPlanet.vue" />
       </list>
     </option>
   </component>
@@ -227,9 +209,9 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="909" />
-    <option name="y" value="37" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="928" />
     <option name="height" value="931" />
   </component>
@@ -313,8 +295,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Melchior\Desktop\GALAXY\assets\scss" />
       <recent name="C:\Users\Melchior\Desktop\GALAXY\static" />
+      <recent name="C:\Users\Melchior\Desktop\GALAXY\assets\scss" />
       <recent name="C:\Users\Melchior\Desktop\GALAXY\assets\scss\fonts" />
     </key>
   </component>
@@ -340,18 +322,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554319224614</updated>
-      <workItem from="1554319227914" duration="40172000" />
+      <workItem from="1554319227914" duration="41429000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40172000" />
+    <option name="totallyTimeSpent" value="41429000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="909" y="37" width="928" height="931" extended-state="0" />
+    <frame x="-8" y="-8" width="1811" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35730338" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17935702" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -360,7 +342,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3298969" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.28412876" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -412,41 +394,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/MainPage/MainPage.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="13" selection-start-line="12" selection-end-line="13" />
-          <folding>
-            <element signature="e#374#426#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/MainPage/DescriptionPlanet.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="83" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/axios.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/MainPage/DesignPlanet.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="11" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Header/HeaderNavigator.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -460,7 +411,7 @@
     <entry file="file://$PROJECT_DIR$/components/Header/HeaderCurrentPlanet.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="59" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="59" />
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -478,6 +429,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pages/_planet.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nuxt.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/components/Header/Header.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
@@ -487,27 +455,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/index.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        <state relative-caret-position="85">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/_planet.vue">
+    <entry file="file://$PROJECT_DIR$/components/MainPage/DescriptionPlanet.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        <state relative-caret-position="170">
+          <caret line="10" column="83" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nuxt.config.js">
+    <entry file="file://$PROJECT_DIR$/components/MainPage/MainPage.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="9" column="84" selection-start-line="9" selection-start-column="84" selection-end-line="9" selection-end-column="84" />
+        <state relative-caret-position="34">
+          <caret line="13" selection-start-line="12" selection-end-line="13" />
+          <folding>
+            <element signature="e#374#426#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/components/Header/HeaderNavigator.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/MainPage/DesignPlanet.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

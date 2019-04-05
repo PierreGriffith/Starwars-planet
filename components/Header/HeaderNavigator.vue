@@ -13,7 +13,7 @@
         name: "HeaderNavigator",
       data(){
           return{
-            number : this.$store.state.current_number_planet
+            number: 1  //this.$store.state.current_number_planet
           }
       },
       beforeCreate(){
