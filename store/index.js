@@ -30,7 +30,8 @@ const createStore = () => {
       },
       async get_info_planet(state, id){
 
-        let { data } = await axios.get(`https://swapi.co/api/planets/` + id )
+        let { data } = await axios.get(`https://swapi.co/api/planets/` + id.toString() )
+
 
         state.current_planet_info.name = data.name;
         state.current_planet_info.rotation_period = data.rotation_period;
