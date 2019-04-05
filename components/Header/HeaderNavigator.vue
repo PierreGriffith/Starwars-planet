@@ -2,7 +2,7 @@
     <span>
 
       <input v-model="number" class="input is-small button__navigator" type="text" placeholder="GO 🌌">
-        <a  :href="number" class="button">GO 🌌</a>
+        <a  :href="number < 1 || number > 61 ? 1 : number" class="button">GO 🌌</a>
 
 
     </span>

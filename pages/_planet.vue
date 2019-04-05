@@ -36,7 +36,7 @@
 
       let max = this.$store.state.number_planets
       this.$store.commit('get_info_planet', id );
-   this.$store.commit('change_number_planet', id)
+      this.$store.commit('change_number_planet', id)
 
     }
   }
